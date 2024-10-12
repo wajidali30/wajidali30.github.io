@@ -52,4 +52,4 @@ Email: wajidaliuop22 [at] gmail.com
 
 Please do not hesitate to get in touch if you are looking for masters or PhD scholarships. I will guide you. You may also connect with me on social media.
 
-Twitter | [Email](mailto:wajidaliuop22@gmail.com)
+[Twitter](https://x.com/wajid_k1) | [Email](mailto:wajidaliuop22@gmail.com)
