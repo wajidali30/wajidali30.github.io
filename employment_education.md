@@ -2,8 +2,11 @@
 
 ## Employment History
 
+- **Postdoctoral Research Associate** - Univer University of Liverpool, UK  
+  (August 2024 - Present)
+
 - **Early Stage Researcher** - University of Liverpool, UK  
-  (August 2021 - Present)
+  (August 2021 - July 2024)
 
 - **Master 2 Internship** - Aix-Marseille University, France  
   (February 2021 - June 2021)
