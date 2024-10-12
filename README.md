@@ -1,5 +1,4 @@
-Welcome to my page!  
-I am a Postdoctoral Research Associate and PhD candidate in Applied Mathematics at the University of Liverpool, UK.
+Welcome to my page!  I am a Postdoctoral Research Associate and PhD candidate in Applied Mathematics at the University of Liverpool, UK.
 
 ## Research Interests
 
