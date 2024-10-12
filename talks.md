@@ -11,4 +11,4 @@
 
 ---
 
-[Go back to home page](README.md)
+[Go back to home page](home.md)
