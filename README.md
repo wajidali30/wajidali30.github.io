@@ -46,7 +46,7 @@ For a complete list of talks, please see [Talks](talks.md).
 - **[Certificates](awards_certificates.md)**
 
 ## Volunteer Activities
-I grew up in an underdeveloped and educationally disadvantaged area. During my summer vacations from 2013 to 2020, I dedicated my time to teaching deserving students of all levels. Inspired by this passion for education, together with very passionate group of  friends, we establish the [The Maths Volunteers Foundation](www.mathsvolunteers.com).
+I grew up in an underdeveloped and educationally disadvantaged area. During my summer vacations from 2013 to 2020, I dedicated my time to teaching deserving students of all levels. Inspired by this passion for education, together with very passionate group of  friends, we establish the [The Maths Volunteers Foundation](https://sites.google.com/view/mathsvolunteers/home).
 
 ## Contact
 
