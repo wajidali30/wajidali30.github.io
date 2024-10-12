@@ -21,3 +21,5 @@
 **Title:** Ulam's Type Stability of Impulsive and Delay Differential Equations
 
 **Description:** In this thesis, I worked on the qualitative theory of differential equations with a focus on stability analysis. Particularly, I proved several theorems concerning the existence, uniqueness, and Hyers-Ulam stability of higher-order impulsive and delay differential equations. I mainly used Banach's contraction principle and integral inequalities of Gronwall type to prove these results.
+
+[Go back to home page](README.md)
