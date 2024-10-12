@@ -32,4 +32,4 @@
 
 Additionally, I took one year of courses in International Mathematics Master at COMSATS University, Lahore, Pakistan (September 2019 - June 2020). I also completed a one-year master's program at Aix-Marseille University, France (September 2020 - June 2021).
 
-[Go back to home page](README.md)
+[Go back to home page](home.md)
