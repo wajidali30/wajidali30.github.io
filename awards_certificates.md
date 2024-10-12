@@ -40,4 +40,4 @@
 
 - **Certificate of Merit**: 1st Position in 10th C Section in BISE Examination 2009-10, GHSS No.1 Peshawar Cantt.
 
-[Go back to home page](README.md)
+[Go back to home page](home.md)
