@@ -35,6 +35,11 @@ My research interest is in the mathematical modelling of real-world problems. Cu
 
 For a complete list of talks, please see [Talks](talks.md).
 
+##  Code repositories on Github
+- [Gillespie Algorith](https://github.com/wajidali30)
+- [Bayesian Data Analysis- An example](https://github.com/wajidali30)
+- [Occupany Models](https://github.com/wajidali30)
+
 ## Employment and Education
 
 - [Employment History](employment_education.md)
