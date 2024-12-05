@@ -1,15 +1,19 @@
 **Welcome to my page!**  
-I am a Postdoctoral Research Associate and PhD candidate in Applied Mathematics at the University of Liverpool, UK.
+I am a Research Associate and PhD candidate in Applied Mathematics at the University of Liverpool, UK.
 
 ## Research Interests
 
 My research interest lies in the mathematical modeling of real-world problems. Currently, I am developing mathematical frameworks for stochastic and deterministic processes, such as ecological and eco-evolutionary systems on networks, epidemics, and vaccination—often supported by real and/or synthetic data. My skills include mathematical modeling, qualitative analysis of differential equations-based models, generating synthetic data for Markovian processes, and data analysis with a focus on estimating key parameters. For my past research activities, please see [Past Research Activities](past_research_activities.md).
 
 ## Research Outputs
-
-- **Christo Morison, Małgorzata Fic, et al., and Wajid Ali (2024).** Public Goods Games in Disease Evolution and Spread. [arXiv link](https://arxiv.org/abs/2402.17842)
+#### Journal Articles
 - **Wajid Ali, Christopher Overton, Robert Wilkinson, Kieran Sharkey (2024).** Deterministic epidemic models overestimate the basic reproduction number of observed outbreaks, *Journal of Infectious Disease Modelling*. [link](https://www.sciencedirect.com/science/article/pii/S2468042724000277)
 - **Karan Pattni, Wajid Ali, Mark Broom, Kieran Sharkey (2023).** Eco-evolutionary dynamics in finite network-structured populations with migration, *Journal of Theoretical Biology*. [link](https://www.sciencedirect.com/science/article/pii/S0022519323001844?via%3Dihub)
+#### Preprint
+- **Christo Morison, Małgorzata Fic, et al., and Wajid Ali (2024).** Public Goods Games in Disease Evolution and Spread. [arXiv link](https://arxiv.org/abs/2402.17842)
+#### Under Preparation
+-  Modelling Delphi’s COVID-19 survey data to uncover drivers behind mixed responses to vaccination
+-  Modelling plants and insect herbivores' response to microbiomes
 
 ## Research Visits
 
