@@ -72,4 +72,4 @@ I grew up in an underdeveloped and educationally disadvantaged area. From 2013 t
 
 Please do not hesitate to contact me if you are looking for master's or PhD scholarships. I will guide you. You may also connect with me on social media.
 
- [ORCID](https://orcid.org/0000-0001-5533-1315) | [Email](mailto:wajidaliuop22@gmail.com) | [Twitter](https://x.com/wajid_k1)
+  [ORCID](https://orcid.org/0000-0001-5533-1315) | [Email](mailto:wajidaliuop22@gmail.com) | [University Webpage](https://www.liverpool.ac.uk/people/wajid-ali)| [LinkedIn](https://www.linkedin.com/in/wajidaliuop22/) 
