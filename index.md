@@ -3,8 +3,7 @@ I am a Research Associate and PhD candidate in Applied Mathematics at the Univer
 
 ## Research Interests
 
-My research interest lies in mathematical modelling of real-world problems. Currently, I am developing mathematical frameworks for stochastic and deterministic processes, such as ecological and eco-evolutionary systems on networks, epidemics, and vaccination—often supported by real and/or synthetic data. My skills include
-mathematical modelling, qualitative analysis of differential equations-based models, generating synthetic data for Markovian processes, and data analysis with a focus on estimating key parameters.
+My research interest lies in mathematical modelling of real-world problems. Currently, I am developing mathematical frameworks for stochastic and deterministic processes, such as ecological and eco-evolutionary systems on networks, epidemics, and vaccination—often supported by real and/or synthetic data.
 For my past research activities, please see [Past Research Activities](past_research_activities.md).
 
 ## Research Outputs
