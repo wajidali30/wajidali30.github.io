@@ -9,9 +9,9 @@ My research interest lies in the mathematical modeling of real-world problems. C
 #### Journal Articles
 - **Wajid Ali, Christopher Overton, Robert Wilkinson, Kieran Sharkey (2024).** Deterministic epidemic models overestimate the basic reproduction number of observed outbreaks, *Journal of Infectious Disease Modelling*. [link](https://www.sciencedirect.com/science/article/pii/S2468042724000277)
 - **Karan Pattni, Wajid Ali, Mark Broom, Kieran Sharkey (2023).** Eco-evolutionary dynamics in finite network-structured populations with migration, *Journal of Theoretical Biology*. [link](https://www.sciencedirect.com/science/article/pii/S0022519323001844?via%3Dihub)
-#### Preprint
+### Preprint
 - **Christo Morison, Małgorzata Fic, et al., and Wajid Ali (2024).** Public Goods Games in Disease Evolution and Spread. [arXiv link](https://arxiv.org/abs/2402.17842)
-#### Under Preparation
+### Under Preparation
 -  Modelling Delphi’s COVID-19 survey data to uncover drivers behind mixed responses to vaccination
 -  Modelling plants and insect herbivores' response to microbiomes
 
