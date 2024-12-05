@@ -3,7 +3,12 @@ I am a Research Associate and PhD candidate in Applied Mathematics at the Univer
 
 ## Research Interests
 
-My research interest lies in the mathematical modeling of real-world problems. Currently, I am developing mathematical frameworks for stochastic and deterministic processes, such as ecological and eco-evolutionary systems on networks, epidemics, and vaccination—often supported by real and/or synthetic data. My skills include mathematical modeling, qualitative analysis of differential equations-based models, generating synthetic data for Markovian processes, and data analysis with a focus on estimating key parameters. For my past research activities, please see [Past Research Activities](past_research_activities.md).
+My research interest lies in mathematical modelling of real-world problems. Currently, I am developing mathematical frameworks for stochastic and deterministic processes, such as ecological and eco-evolutionary systems on networks, epidemics, and vaccination—often supported by real and/or synthetic data. My skills include
+mathematical modelling,
+qualitative analysis of differential equations-based models,
+generating synthetic data for Markovian processes, and
+data analysis with a focus on estimating key parameters.
+For my past research activities, please see [Past Research Activities](past_research_activities.md).
 
 ## Research Outputs
 #### Journal Articles
@@ -12,7 +17,7 @@ My research interest lies in the mathematical modeling of real-world problems. C
 #### Preprint
   - **Christo Morison, Małgorzata Fic, et al., and Wajid Ali (2024).** Public Goods Games in Disease Evolution and Spread. [arXiv link](https://arxiv.org/abs/2402.17842)
 #### Under Preparation
-  -  Modelling Delphi’s COVID-19 survey data to uncover drivers behind mixed responses to vaccination
+  -  Modelling Delphi's COVID-19 survey data to uncover drivers behind mixed responses to vaccination
   -  Modelling plants and insect herbivores' response to microbiomes
 
 ## Research Visits
@@ -33,12 +38,12 @@ My research interest lies in the mathematical modeling of real-world problems. C
 - **July 15, 2024:** Modeling attitude towards vaccination, PhD Symposium, Department of Mathematical Sciences, University of Liverpool, United Kingdom.
 - **January 22, 2024:** Modelling attitude towards vaccination, EvoGamesPlus Winter School 2023, Szeged, Hungary.
 - **November 30, 2023:** Deterministic epidemic models overestimate the basic reproduction number of observed outbreaks, Epidemics: 9th International Conference on Infectious Disease Dynamics 2023, Bologna, Italy.
-- **April 24, 2023:** A modeling framework of eco-evolutionary dynamics in finite network-structured populations with migration, Conference on Mathematical Population Dynamics, Ecology and Evolution – MPDEE 2023, Marseille, France.
+- **April 24, 2023:** A modelling framework of eco-evolutionary dynamics in finite network-structured populations with migration, Conference on Mathematical Population Dynamics, Ecology and Evolution – MPDEE 2023, Marseille, France.
 - **April 13, 2023:** Deterministic epidemic models overestimate the basic reproduction number of observed outbreaks, Department of Computer Science, University of Turin, Italy.
 - **January 25, 2023:** More accurate estimation of the basic reproductive ratio from epidemic incidence data using a model conditioned on major outbreaks, MathBio Seminar, Department of Mathematical Sciences, University of Liverpool, United Kingdom.
 - **November 21, 2022:** More accurate estimation of the basic reproductive ratio from epidemic incidence data using a model conditioned on major outbreaks, EvoGamesPlus Winter School, Ploen, Germany.
 
-For a complete list of talks, please see [Talks](talks.md).
+Please see [Talks](talks.md) for a complete list of talks.
 
 ## Code Repositories on GitHub
 
@@ -58,13 +63,13 @@ For a complete list of talks, please see [Talks](talks.md).
 
 ## Volunteer Activities
 
-I grew up in an underdeveloped and educationally disadvantaged area. From 2013 to 2020, I dedicated my summer vacations to teaching deserving students of all levels. Inspired by this passion for education, along with a passionate group of friends, we established [The Maths Volunteers Foundation](https://sites.google.com/view/mathsvolunteers/home).
+I grew up in an underdeveloped and educationally disadvantaged area. From 2013 to 2020, I dedicated my summer vacations to teaching deserving students of all levels. Inspired by this passion for education and a passionate group of friends, we established [The Maths Volunteers Foundation](https://sites.google.com/view/mathsvolunteers/home).
 
 ## Contact
 
 **Office:** 515 Mathematical Sciences Building, Peach Street, Liverpool, L69 7ZL, England, United Kingdom  
 **Email:** wajidaliuop22 [at] gmail.com  
 
-Please do not hesitate to get in touch if you are looking for master's or PhD scholarships. I will guide you. You may also connect with me on social media.
+Please do not hesitate to contact me if you are looking for master's or PhD scholarships. I will guide you. You may also connect with me on social media.
 
-[Twitter](https://x.com/wajid_k1) | [Email](mailto:wajidaliuop22@gmail.com)
+ [ORCID](https://orcid.org/0000-0001-5533-1315)| [Email](mailto:wajidaliuop22@gmail.com)|[Twitter] (https://x.com/wajid_k1)
