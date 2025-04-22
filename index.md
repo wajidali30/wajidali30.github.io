@@ -1,71 +1,134 @@
-**Welcome to my page!**  
-I am a Research Associate and PhD candidate in Applied Mathematics at the University of Liverpool, UK.
+# 👋 Welcome to My Page
 
-## Research Interests
+I’m **Wajid Ali**, a Postdoctoral Research Associate and PhD candidate in Applied Mathematics at the **University of Liverpool, UK**. My work bridges mathematics, biology, and data science through the development of mathematical models to understand real-world systems such as epidemics, evolution, and human behaviour.
 
-My research interest lies in mathematical modelling of real-world problems. Currently, I am developing mathematical frameworks for stochastic and deterministic processes, such as ecological and eco-evolutionary systems on networks, epidemics, and vaccination—often supported by real and/or synthetic data.
-For my past research activities, please see [Past Research Activities](past_research_activities.md).
+---
 
-## Research Outputs
-#### Journal Articles
-  - **Wajid Ali, Christopher Overton, Robert Wilkinson, Kieran Sharkey (2024).** Deterministic epidemic models overestimate the basic reproduction number of observed outbreaks, *Journal of Infectious Disease Modelling*. [link](https://www.sciencedirect.com/science/article/pii/S2468042724000277)
-  - **Karan Pattni, Wajid Ali, Mark Broom, Kieran Sharkey (2023).** Eco-evolutionary dynamics in finite network-structured populations with migration, *Journal of Theoretical Biology*. [link](https://www.sciencedirect.com/science/article/pii/S0022519323001844?via%3Dihub)
-#### Preprint
-  - **Christo Morison, Małgorzata Fic, et al., and Wajid Ali (2024).** Public Goods Games in Disease Evolution and Spread. [arXiv link](https://arxiv.org/abs/2402.17842)
-#### Under Preparation
-  -  Modelling Delphi's COVID-19 survey data to uncover drivers behind mixed responses to vaccination
-  -  Modelling plants and insect herbivores' response to microbiomes
+## 🔬 Research Interests
 
-## Research Visits
+My research focuses on **stochastic and deterministic modelling** of biological and social systems, including:
 
-- IMDEA Networks Institute, Madrid, Spain (Oct 2023 - Nov 2023)
-- University of Turin, Turin, Italy (Feb 2023 - Mar 2023)
-- City, University of London, London, UK (Apr 2023 - Jul 2023)
+- Epidemics and vaccine hesitancy
+- Eco-evolutionary dynamics and behavioural ecology
+- Evolutionary game theory and network-structured populations
+- Time series forecasting and machine learning
+- Genomic data analysis
 
-## Leadership Roles
+---
 
-- Leader and Correspondent, "Review Paper: Public Goods Games in Disease Evolution and Spread" at MSCA-EvoGamesPlus Consortium (2023-2024)
-- PGR Representative at Staff-Student Liaison Committee, University of Liverpool (2022-2023)
-- ESR Representatives at MSCA-EvoGamesPlus Consortium (2021-2022)
-- Head and Founder of The Maths Volunteers Foundation (2020-)
+## 📄 Research Outputs
 
-## Selected Talks
+### 🧪 Journal Articles
 
-- **July 15, 2024:** Modeling attitude towards vaccination, PhD Symposium, Department of Mathematical Sciences, University of Liverpool, United Kingdom.
-- **January 22, 2024:** Modelling attitude towards vaccination, EvoGamesPlus Winter School 2023, Szeged, Hungary.
-- **November 30, 2023:** Deterministic epidemic models overestimate the basic reproduction number of observed outbreaks, Epidemics: 9th International Conference on Infectious Disease Dynamics 2023, Bologna, Italy.
-- **April 24, 2023:** A modelling framework of eco-evolutionary dynamics in finite network-structured populations with migration, Conference on Mathematical Population Dynamics, Ecology and Evolution – MPDEE 2023, Marseille, France.
-- **April 13, 2023:** Deterministic epidemic models overestimate the basic reproduction number of observed outbreaks, Department of Computer Science, University of Turin, Italy.
-- **January 25, 2023:** More accurate estimation of the basic reproductive ratio from epidemic incidence data using a model conditioned on major outbreaks, MathBio Seminar, Department of Mathematical Sciences, University of Liverpool, United Kingdom.
-- **November 21, 2022:** More accurate estimation of the basic reproductive ratio from epidemic incidence data using a model conditioned on major outbreaks, EvoGamesPlus Winter School, Ploen, Germany.
+1. **C. Morison, M. Fic, T. Marcou, et al., and W. Ali (2025).** Public goods games in disease evolution and spread. *Dynamic Games and Applications*, pp. 1–17. [DOI](https://doi.org/10.1007/s13235-025-00619-5)
 
-Please see [Talks](talks.md) for a complete list of talks.
+2. **W. Ali, C. E. Overton, R. R. Wilkinson, and K. J. Sharkey (2024).** Deterministic epidemic models overestimate the basic reproduction number of observed outbreaks. *Infectious Disease Modelling*, 9(3), 680–688. [DOI](https://doi.org/10.1016/j.idm.2024.02.007)
 
-## Code Repositories on GitHub
+3. **K. Pattni, W. Ali, M. Broom, and K. J. Sharkey (2023).** Eco-evolutionary dynamics in finite network-structured populations with migration. *Journal of Theoretical Biology*, 572, 111587. [DOI](https://doi.org/10.1016/j.jtbi.2023.111587)
 
-- [Gillespie Algorithm](https://github.com/wajidali30)
-- [Bayesian Data Analysis - An Example](https://github.com/wajidali30)
-- [Occupancy Models](https://github.com/wajidali30)
+4. **A. Zada, W. Ali, and C. Park (2019).** Ulam’s type stability of higher order nonlinear delay differential equations via integral inequality of Grönwall–Bellman–Bihari’s type. *Applied Mathematics and Computation*, 350, 60–65. [DOI](https://doi.org/10.1016/j.amc.2019.01.014)
 
-## Employment and Education
+5. **J. Wang, A. Zada, and W. Ali (2018).** Ulam’s-type stability of first-order impulsive differential equations with variable delay in quasi–Banach spaces. *International Journal of Nonlinear Sciences and Numerical Simulation*, 19(5), 553–560. [DOI](https://doi.org/10.1515/ijnsns-2017-0245)
 
-- [Employment History](employment_education.md)
-- [Educational Qualifications](employment_education.md)
+6. **A. Zada, W. Ali, and S. Farina (2017).** Hyers–Ulam stability of nonlinear differential equations with fractional integrable impulses. *Mathematical Methods in the Applied Sciences*, 40(15), 5502–5514. [DOI](https://doi.org/10.1002/mma.4405)
 
-## Awards and Certificates
 
-- [Awards](awards_certificates.md)
-- [Certificates](awards_certificates.md)
+### 📘 Preprints
 
-## Volunteer Activities
+1. **W. Ali, J. Mohamadichamgavi, J. Ramirez, J. Aguilar, A. Fernández Anta, and K. J. Sharkey (2025).** A mathematical model of vaccine hesitancy: Analysing the impact of political trends and interaction across age and education groups in the USA.
 
-I grew up in an underdeveloped and educationally disadvantaged area. From 2013 to 2020, I dedicated my summer vacations to teaching deserving students of all levels. Inspired by this passion for education and a passionate group of friends, we established [The Maths Volunteers Foundation](https://sites.google.com/view/mathsvolunteers/home).
+2. **W. Ali, S. E. Zytynska, and K. J. Sharkey (2025).** Quantifying plants and insect herbivores’ response to microbiomes using nonlinear Leslie model.
 
-## Contact
 
-**Office:** 515 Mathematical Sciences Building, Peach Street, Liverpool, L69 7ZL, England, United Kingdom  
+---
+
+## 🧠 Leadership Roles
+
+- **2020–Present:** Founder & Executive Director, [The Maths Volunteers Foundation](https://sites.google.com/view/mathsvolunteers/home)
+- **2023–2024:** Leader, Review Paper – Public Goods Games in Disease Evolution (MSCA-EvoGamesPlus)
+- **2022–2023:** PGR Representative, Staff-Student Liaison Committee, University of Liverpool
+- **2021–2022:** ESR Representative, MSCA-EvoGamesPlus Consortium
+
+---
+
+## 🗣️ Selected Talks
+
+- **2025:** A mathematical model of vaccine hesitancy – University of Liverpool (Virtual)
+- **2024:** Modelling attitude towards vaccination – EvoGamesPlus Winter School, Hungary
+- **2023:** Deterministic models and basic reproduction number – Epidemics 9, Bologna
+- **2023:** Eco-evolutionary dynamics – MPDEE Conference, France
+- **2022:** Evolutionary models in network populations – EvoGamesPlus Winter School, Germany
+
+📍 See [Talks](talks.md) for the full list.
+
+---
+
+## 🌍 Research Visits
+
+- **IMDEA Networks Institute**, Madrid, Spain – Oct–Nov 2023  
+- **University of Turin**, Italy – Feb–Mar 2023  
+- **City, University of London**, UK – Apr–Jul 2023  
+
+---
+
+## 💡 Side Projects
+
+- Estimating species occupancy using environmental DNA  
+- Genomic data analysis in Python  
+- Bayesian testing for Swedish Fish Inc.  
+- Time series modelling for bike-share demand  
+- Game theory and honest signalling  
+- Forecasting disaster-induced mortality using Prophet
+
+---
+
+## 📚 Blog Posts
+
+- [From Casinos to Genes: The Gambler’s Ruin and Evolutionary Theory](https://www.mathsvolunteers.com/blogs)  
+- [How to Win a Fully Funded Scholarship](https://www.mathsvolunteers.com/blogs)
+
+---
+
+## 💻 Code Repositories
+
+- [Gillespie Algorithm](https://github.com/wajidali30)  
+- [Bayesian Data Analysis – An Example](https://github.com/wajidali30)  
+- [Occupancy Models](https://github.com/wajidali30)  
+
+---
+
+## 🎓 Employment & Education
+
+- [Employment History & Education](employment_education.md)  
+  _Postdoc (x2) | Marie Curie PhD Fellow | MSc & BSc (Hons) in Mathematics_
+
+---
+
+## 🏅 Awards & Certifications
+
+- [Marie–Curie Fellowship](awards_certificates.md)  
+- [PDRA – Applied Mathematics & Conservation](awards_certificates.md)  
+- [Certificates: Diversity, Data Security, Safety Training](awards_certificates.md)
+
+---
+
+## 🤝 Volunteer Work
+
+I come from an educationally disadvantaged background and have dedicated years to volunteer teaching. This led to the creation of **The Maths Volunteers Foundation** – a community-driven initiative for free mathematics education.
+
+👉 [Visit our website](https://sites.google.com/view/mathsvolunteers/home)
+
+---
+
+## 📬 Contact Me
+
+**Office:** Room 515, Mathematical Sciences Building, University of Liverpool, UK  
 **Email:** wajidaliuop22 [at] gmail.com  
 
-Please do not hesitate to contact me if you are looking for master's or PhD scholarships. I will guide you. You may also connect with me on social media.
+I’m happy to help prospective Master’s and PhD applicants. Feel free to reach out!
 
-  [ORCID](https://orcid.org/0000-0001-5533-1315) | [Email](mailto:wajidaliuop22@gmail.com) | [University Webpage](https://www.liverpool.ac.uk/people/wajid-ali)| [LinkedIn](https://www.linkedin.com/in/wajidaliuop22/) 
+---
+
+## 🔗 Elsewhere
+
+[ORCID](https://orcid.org/0000-0001-5533-1315) · [University Profile](https://www.liverpool.ac.uk/people/wajid-ali) · [LinkedIn](https://www.linkedin.com/in/wajidaliuop22/) · [Email Me](mailto:wajidaliuop22@gmail.com)
