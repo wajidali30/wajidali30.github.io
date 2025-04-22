@@ -89,7 +89,7 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ## Additional Info
 
-- [Miscellaneous: Skills, Projects, Trainings, Supervisions](misc.md)
+- [Miscellaneous: Skills, Side Projects, Blogs, Codes, Trainings, Supervisions](misc.md)
 
 
 ## 🤝 Volunteer Work
