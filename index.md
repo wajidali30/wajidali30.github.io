@@ -57,7 +57,7 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 - **2024:** Modelling attitude towards vaccination – EvoGamesPlus Winter School, Hungary
 - **2023:** Deterministic models and basic reproduction number – Epidemics 9, Bologna
 - **2023:** Eco-evolutionary dynamics – MPDEE Conference, France
-- **2022:** Evolutionary models in network populations – EvoGamesPlus Winter School, Germany
+- **2022:** Evolutionary models in network structured populations – EvoGamesPlus Winter School, Germany
 
 📍 See [Talks](talks.md) for the full list.
 
@@ -71,31 +71,6 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ---
 
-## 💡 Side Projects
-
-- Estimating species occupancy using environmental DNA  
-- Genomic data analysis in Python  
-- Bayesian testing for Swedish Fish Inc.  
-- Time series modelling for bike-share demand  
-- Game theory and honest signalling  
-- Forecasting disaster-induced mortality using Prophet
-
----
-
-## 📚 Blog Posts
-
-- [From Casinos to Genes: The Gambler’s Ruin and Evolutionary Theory](https://www.mathsvolunteers.com/blogs)  
-- [How to Win a Fully Funded Scholarship](https://www.mathsvolunteers.com/blogs)
-
----
-
-## 💻 Code Repositories
-
-- [Gillespie Algorithm](https://github.com/wajidali30)  
-- [Bayesian Data Analysis – An Example](https://github.com/wajidali30)  
-- [Occupancy Models](https://github.com/wajidali30)  
-
----
 
 ## 🎓 Employment & Education
 
@@ -111,6 +86,11 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 - [Certificates: Diversity, Data Security, Safety Training](awards_certificates.md)
 
 ---
+
+## Additional Info
+
+- [Miscellaneous: Skills, Projects, Trainings, Supervisions](misc.md)
+
 
 ## 🤝 Volunteer Work
 
