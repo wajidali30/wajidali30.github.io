@@ -65,9 +65,9 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ## 🌍 Research Visits
 
-- **IMDEA Networks Institute**, Madrid, Spain – Oct–Nov 2023  
-- **University of Turin**, Italy – Feb–Mar 2023  
-- **City, University of London**, UK – Apr–Jul 2023  
+- **IMDEA Networks Institute**, Madrid, Spain. Oct–Nov 2023  
+- **University of Turin**, Italy. Feb–Mar 2023  
+- **City, University of London**, UK. Apr–Jul 2023  
 
 ---
 
