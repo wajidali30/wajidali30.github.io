@@ -1,6 +1,6 @@
 # 👋 Welcome to My Page
 
-I’m **Wajid Ali**, a Postdoctoral Research Associate and PhD candidate in Applied Mathematics at the **University of Liverpool, UK**. My work bridges mathematics, biology, and data science through the development of mathematical models to understand real-world systems such as epidemics, evolution, and human behaviour.
+I am **Wajid Ali**, a Postdoctoral Research Associate and PhD candidate in Applied Mathematics at the **University of Liverpool, UK**. My work bridges mathematics, biology, and data science through the development of mathematical models to understand real-world systems such as epidemics, evolution, and human behaviour.
 
 ---
 
