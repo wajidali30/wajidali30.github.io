@@ -1,35 +1,56 @@
-# Employment and Education
+# 📘 Employment and Education
 
-## Employment History
+## 💼 Employment History
 
-- **Postdoctoral Research Associate** - Univer University of Liverpool, UK  
-  (August 2024 - Present)
+- **Postdoctoral Research Associate** – Department of Evolution, Ecology and Behaviour, University of Liverpool, UK  
+  *(2025 – Present)*
 
-- **Early Stage Researcher** - University of Liverpool, UK  
-  (August 2021 - July 2024)
+- **Postdoctoral Research Associate** – Department of Mathematical Sciences, University of Liverpool, UK  
+  *(2024 – 2025)*
 
-- **Master 2 Internship** - Aix-Marseille University, France  
-  (February 2021 - June 2021)
+- **Marie Curie Early Stage Researcher (PhD Fellow)** – Department of Mathematical Sciences, University of Liverpool, UK  
+  *(2021 – 2024)*
 
-- **Mathematics Lecturer** - Govt College of Technology, Peshawar  
-  (October 2018 - March 2019)
+- **Executive Director & Volunteer Lecturer** – The Maths Volunteers Foundation  
+  *(2020 – Present)*
 
-- **Mathematics Lecturer** - Islamia College, Peshawar  
-  (September 2017 - February 2018)
+- **Master 2 Internship** – Archimedes Institute, Aix-Marseille University, France  
+  *(2020 – 2021)*
+
+- **Mathematics Lecturer** – Government College of Technology, Peshawar, Pakistan  
+  *(2018 – 2019)*
+
+- **Mathematics Lecturer** – Islamia College, Peshawar, Pakistan  
+  *(2017 – 2018)*
 
 ---
 
-## Education Record
+## 🎓 Education Record
 
-- **PhD in Applied Mathematics** - University of Liverpool, UK  
-  (October 2021 - Present)
+- **PhD in Applied Mathematics** – University of Liverpool, UK  
+  *(2021 – 2025)*  
+  *Thesis: Mathematical modelling of epidemics, evolution, and social interaction.*
 
-- **Masters in Mathematics** - University of Peshawar, Pakistan  
-  (September 2017 - August 2019)
+- **Master's in Mathematics** – University of Peshawar, Pakistan  
+  *(2017 – 2019)*  
+  *Thesis: Stability and bifurcation analysis of modified Lotka–Volterra models.*
 
-- **Bachelors in Mathematics** - University of Peshawar, Pakistan  
-  (September 2013 - July 2017)
+- **Bachelor's in Mathematics** – University of Peshawar, Pakistan  
+  *(2013 – 2017)*  
+  *Thesis: Ulam’s type stability of higher-order impulsive and delay differential equations.*
 
-Additionally, I took one year of courses in International Mathematics Master at COMSATS University, Lahore, Pakistan (September 2019 - June 2020). I also completed a one-year master's program at Aix-Marseille University, France (September 2020 - June 2021).
+- **Master 2 in Mathematics & Modelling** – Aix-Marseille University, France  
+  *(2020 – 2021)*
 
-[Go back to home page](home.md)
+- **Coursework (1 year)** – International Mathematics Master Program, COMSATS University Lahore & ICTP Trieste  
+  *(2019 – 2020)*
+
+- **Higher Secondary School Certificate (HSSC)** – Board of Intermediate and Secondary Education, Peshawar, Pakistan  
+  *(2010 – 2013)*
+
+- **Secondary School Certificate (SSC)** – Board of Intermediate and Secondary Education, Peshawar, Pakistan  
+  *(2009 – 2010)*
+
+---
+
+[⬅️ Back to Home](index.md)
