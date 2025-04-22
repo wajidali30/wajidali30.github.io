@@ -96,7 +96,7 @@ I come from an educationally disadvantaged background and have dedicated years t
 
 ---
 
-# 📌 Miscellaneous Information
+# 📌 Misc.
 
 - [Skills, Side Projects, Blogs, Codes, Trainings, Supervisions](misc.md)
 
