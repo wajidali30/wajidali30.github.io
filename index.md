@@ -87,16 +87,18 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ---
 
-## Additional Info
-
-- [Miscellaneous: Skills, Side Projects, Blogs, Codes, Trainings, Supervisions](misc.md)
-
 
 ## 🤝 Volunteer Work
 
 I come from an educationally disadvantaged background and have dedicated years to volunteer teaching. This led to the creation of **The Maths Volunteers Foundation** – a community-driven initiative for free mathematics education.
 
 👉 [Visit our website](https://sites.google.com/view/mathsvolunteers/home)
+
+---
+
+## Additional Info
+
+- [Miscellaneous: Skills, Side Projects, Blogs, Codes, Trainings, Supervisions](misc.md)
 
 ---
 
