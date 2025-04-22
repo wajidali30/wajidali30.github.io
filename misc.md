@@ -4,6 +4,32 @@ This page summarizes additional professional activities, skills, and contributio
 
 ---
 
+## 💡 Side Projects
+
+- Estimating species occupancy using environmental DNA  
+- Genomic data analysis in Python  
+- Bayesian testing for Swedish Fish Inc.  
+- Time series modelling for bike-share demand  
+- Game theory and honest signalling  
+- Forecasting disaster-induced mortality using Prophet
+
+---
+
+## 📚 Blog Posts
+
+- [From Casinos to Genes: The Gambler’s Ruin and Evolutionary Theory](https://www.mathsvolunteers.com/blogs)  
+- [How to Win a Fully Funded Scholarship](https://www.mathsvolunteers.com/blogs)
+
+---
+
+## 💻 Code Repositories
+
+- [Gillespie Algorithm](https://github.com/wajidali30)  
+- [Bayesian Data Analysis – An Example](https://github.com/wajidali30)  
+- [Occupancy Models](https://github.com/wajidali30)  
+
+---
+
 ## 🧠 Skills
 
 ### 🗣️ Languages
