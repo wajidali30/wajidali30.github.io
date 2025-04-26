@@ -71,8 +71,9 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ## 🎓 Employment & Education
 
-- [Employment History & Education](employment_education.md)  
   _Postdoc (x2) | Marie Curie PhD Fellow | MSc & BSc (Hons) in Mathematics_
+
+📍 See [Employment History & Education](employment_education.md) for the full list. 
 
 ---
 
