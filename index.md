@@ -1,6 +1,6 @@
 # 👋 Welcome to My Page
 
-I am **Wajid Ali**, a Postdoctoral Research Associate and PhD candidate in Applied Mathematics at the **University of Liverpool, UK**. My work bridges mathematics, biology, and data science through the development of mathematical models to understand real-world systems such as epidemics, evolution, and human behaviour.
+I am **Wajid Ali**, a Postdoctoral Research Associate at the **University of Liverpool, UK**. My work bridges mathematics, biology, and data science through the development of mathematical models to understand real-world systems such as epidemics, evolution, and human behaviour.
 
 ---
 
@@ -9,7 +9,7 @@ I am **Wajid Ali**, a Postdoctoral Research Associate and PhD candidate in Appli
 My research focuses on **stochastic and deterministic modelling** of biological and social systems, including:
 
 - Epidemics and vaccine hesitancy
-- Eco-evolutionary dynamics and behavioural ecology
+- Eco-evolutionary dynamics, conservation and behavioural ecology
 - Evolutionary game theory and network-structured populations
 - Time series forecasting and machine learning
 - Genomic data analysis
