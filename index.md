@@ -35,7 +35,7 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 2. **W. Ali, S. E. Zytynska, and K. J. Sharkey (2025).** Quantifying plants and insect herbivores’ response to microbiomes using nonlinear Leslie model.
 
-📍 See [List of Publication](publication.md) for the full list.
+📍 See [List of Publication](publications.md) for the full list.
 ---
 
 ## 🧠 Leadership Roles
