@@ -16,9 +16,9 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ---
 
-## 📄 Key Research Outputs
+## 📄 Research Outputs
 
-### 🧪 Journal Articles
+### 🧪 Key Journal Articles
 
 1. **C. Morison, M. Fic, T. Marcou, et al., and W. Ali (2025).** Public goods games in disease evolution and spread. *Dynamic Games and Applications*, pp. 1–17. [DOI](https://doi.org/10.1007/s13235-025-00619-5)
 
