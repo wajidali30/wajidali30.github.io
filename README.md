@@ -1,2 +1,2 @@
 This repository is for my personal webpage. 
-@2025. All rights reserved
+@2025. All rights reserved. Thank you for visiting. 
