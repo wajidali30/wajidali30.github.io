@@ -90,7 +90,7 @@ Postdoc (x2) | Marie Curie PhD Fellow | MSc & BSc (Hons) in Mathematics
 
 - [Marie–Curie Fellowship](awards_certificates.md)  
 - [PDRA – Applied Mathematics & Conservation](awards_certificates.md)  
-- [Certificates: Diversity, Data Security, Safety Training](awards_certificates.md)
+- [Full List of Awards & Certificates](awards_certificates.md)
 
 ---
 
