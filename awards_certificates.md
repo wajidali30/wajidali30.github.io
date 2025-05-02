@@ -17,8 +17,12 @@
 
 ### 🔹 Academic Conferences & Schools
 
+- **Advanced spatial prioritisation training with Marxan, R and CLUZ**, SNaP Forum 2025, University of Kent, UK  
+  *(May 02, 2025)*
+- **Introduction to systematic conservation planning and spatial prioritisation**, SNaP Forum 2025, University of Kent, UK  
+  *(May 01, 2025)*
 - **The Spatial Nature Planning Forum 2025 – Systematic Conservation Planning**, University of Kent, UK  
-  *(April 29 – May 1, 2025)*
+  *(April 29, 2025)*
 
 - **EvoGamesPlus Winter School**, University of Szeged, Hungary  
   *(January 22 – 26, 2024)*
