@@ -110,7 +110,7 @@ I come from an educationally disadvantaged background and have dedicated years t
 
 ## 📬 Contact Me
 
-**Office:** Room 515, Mathematical Sciences Building, University of Liverpool, UK  
+**Office:** Floor 2, Bioscinces Building, University of Liverpool, UK  
 **Email:** wajidaliuop22 [at] gmail.com  
 
 I am happy to help prospective Master’s and PhD applicants. Feel free to reach out!
