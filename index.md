@@ -99,7 +99,8 @@ Postdoc (x2) | Marie Curie PhD Fellow | MSc & BSc (Hons) in Mathematics
 I come from an educationally disadvantaged background and have dedicated years to volunteer teaching. This led to the creation of **The Maths Volunteers Foundation** – a community-driven initiative for free mathematics education. 
 
 👉 [Visit Maths Volunteers' website](https://www.mathsvolunteers.com)
-- [See my past volunteers activities](past_volunteers.md)
+
+👉 [See my past volunteers activities](https://www.mathsvolunteers.com/our-team/wajid-ali)
 
 ---
 
