@@ -96,9 +96,10 @@ Postdoc (x2) | Marie Curie PhD Fellow | MSc & BSc (Hons) in Mathematics
 
 ## 🤝 Volunteer Work
 
-I come from an educationally disadvantaged background and have dedicated years to volunteer teaching. This led to the creation of **The Maths Volunteers Foundation** – a community-driven initiative for free mathematics education.
+I come from an educationally disadvantaged background and have dedicated years to volunteer teaching. This led to the creation of **The Maths Volunteers Foundation** – a community-driven initiative for free mathematics education. 
 
-👉 [Visit our website](https://www.mathsvolunteers.com)
+👉 [Visit Maths Volunteers' website](https://www.mathsvolunteers.com)
+- [See my past volunteers activities](past_volunteers.md)
 
 ---
 
