@@ -30,7 +30,7 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ### 📘 Preprints
 
-1. **W. Ali, J. Mohamadichamgavi, J. Ramirez, J. Aguilar, A. Fernández Anta, and K. J. Sharkey (2025).** A mathematical model of vaccine hesitancy: Analysing the impact of political trends and interaction across age and education groups in the USA.
+1. **W. Ali, J. Mohamadichamgavi, J. Ramirez, J. Aguilar, A. Fernández Anta, and K. J. Sharkey (2025).** A mathematical model of vaccine hesitancy: Analysing the impact of political trends and interaction across age and education groups in the USA. [DOI](https://arxiv.org/pdf/2509.07712)
 
 2. **W. Ali, S. E. Zytynska, and K. J. Sharkey (2025).** Quantifying plants and insect herbivores’ response to microbiomes using a nonlinear Leslie model.
 
