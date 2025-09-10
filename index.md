@@ -30,7 +30,7 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ### 📘 Preprints
 
-1. **W. Ali, J. Mohamadichamgavi, J. Ramirez, J. Aguilar, A. Fernández Anta, and K. J. Sharkey (2025).** A mathematical model of vaccine hesitancy: Analysing the impact of political trends and interaction across age and education groups in the USA. [DOI](https://arxiv.org/pdf/2509.07712)
+1. **W. Ali, J. Mohamadichamgavi, J. Ramirez, J. Aguilar, A. Fernández Anta, and K. J. Sharkey (2025).** A mathematical model of vaccine hesitancy: Analysing the impact of political trends and interaction across age and education groups in the USA. [DOI](https://arxiv.org/abs/2509.07712)
 
 ### In preparation
 1. **W. Ali, O. Ovaskainen, S. Cornell, and J. Hodgson (2025).** Unified inference about dispersal and climate drivers: A spatial population dynamics model coupled with Bayesian fitting.
