@@ -117,7 +117,7 @@ I come from an educationally disadvantaged background and have dedicated years t
 **Office:** B216, Biosciences Building, University of Liverpool, UK  
 **Email:** wajidaliuop22 [at] gmail.com  
 
-I am happy to help prospective Master’s and PhD applicants. Feel free to reach out!
+I am happy to help prospective Master’s and PhD applicants on scholarships. Feel free to reach out!
 
 ---
 
