@@ -123,4 +123,4 @@ I am happy to help prospective Master’s and PhD applicants on scholarships. Fe
 
 ## 🔗 Elsewhere
 
-[ORCID](https://orcid.org/0000-0001-5533-1315) · [University Profile](https://www.liverpool.ac.uk/people/wajid-ali) · [LinkedIn](https://www.linkedin.com/in/wajidaliuop22/) · [Email Me](mailto:wajidaliuop22@gmail.com)
+[ORCID](https://orcid.org/0000-0001-5533-1315) · [University Profile](https://www.liverpool.ac.uk/people/wajid-ali) · [LinkedIn](https://www.linkedin.com/in/wajidk1/) · [Email Me](mailto:wajidaliuop22@gmail.com)
