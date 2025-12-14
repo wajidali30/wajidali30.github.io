@@ -4,8 +4,6 @@ I am **Wajid Ali**, a Postdoctoral Research Associate at the [University of Live
 
 ---
 
-📄 [View my CV (Google Drive)](https://drive.google.com/file/d/1kqD9koBd__pi7wPEYkU8EPr7GZR1EqRA/view?usp=sharing)
-
 
 ## 🔬 Research Interests
 
