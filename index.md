@@ -57,6 +57,7 @@ My research focuses on **stochastic and deterministic modelling** of biological 
 
 ## 🗣️ Selected Talks
 
+- *2025:** Unified inference about dispersal and climate drivers: A spatial population dynamics model coupled with Bayesian fitting. BES Annual Meeting 2025, Edinburgh, UK. 
 - **2025:** A mathematical model of vaccine hesitancy – University of Liverpool (Virtual)  
 - **2024:** Modelling attitudes towards vaccination – EvoGamesPlus Winter School, Hungary  
 - **2023:** Deterministic models and basic reproduction number – Epidemics 9, Bologna  
