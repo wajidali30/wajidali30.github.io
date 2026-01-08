@@ -1,6 +1,6 @@
 # 👋 Welcome to My Page
 
-I am **Dr Wajid Ali**, a Postdoctoral Research Associate at the [University of Liverpool, UK](https://www.liv.ac.uk/people/wajid-ali). My work bridges mathematics, biology, and data science through the development of mathematical models to understand real-world systems such as epidemics, evolution, and human behaviour. I am also the Founding & Executive Director of [The Maths Volunteers Foundation](https://www.mathsvolunteers.com/our-team). 
+I am **Dr. Wajid Ali**, a Postdoctoral Research Associate at the [University of Liverpool, UK](https://www.liv.ac.uk/people/wajid-ali). My work bridges mathematics, biology, and data science through the development of mathematical models to understand real-world systems such as epidemics, evolution, and human behaviour. I am also the Founding & Executive Director of [The Maths Volunteers Foundation](https://www.mathsvolunteers.com/our-team). 
 
 ---
 
