@@ -9,11 +9,10 @@ I am **Dr Wajid Ali**, a Postdoctoral Research Associate at the [University of L
 
 My research focuses on **stochastic and deterministic modelling** of biological and social systems, including:
 
-- Epidemics and vaccine hesitancy  
-- Eco-evolutionary dynamics, conservation, and behavioural ecology  
-- Evolutionary game theory and network-structured populations  
-- Time series forecasting and machine learning  
-- Genomic data analysis  
+-  Mathematical theories of ecology, epidemics, evolution and behaviour. Stochastic simulations.
+-  Computational modelling of conservation. Evolutionary game & graph theory.
+-  Data analysis and machine learning. Qualitative theory of differential equations.
+-  Time series data analysis. Genomic data analysis. Bayesian inference.
 
 ---
 
