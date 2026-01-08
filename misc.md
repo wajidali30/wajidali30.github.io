@@ -6,12 +6,12 @@ This page summarizes additional professional activities, skills, and contributio
 
 ## 💡 Side Projects
 
-- Estimating species occupancy using environmental DNA  
-- Genomic data analysis in Python  
-- Bayesian testing for Swedish Fish Inc.  
-- Time series modelling for bike-share demand  
-- Game theory and honest signalling  
-- Forecasting disaster-induced mortality using Prophet
+- Estimating species occupancy probabilities using environmental DNA data.
+- Genomic data analysis in Python—Coursera project.
+- Bayesian testing for Swedish Fish Incorporated.
+- Forecasting bike-share demand using time series models in Python—Coursera project.
+- Disaster-induced mortality forecasting using the Prophet model.
+
 
 ---
 
