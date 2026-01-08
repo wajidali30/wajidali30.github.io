@@ -64,7 +64,8 @@ This page summarizes additional professional activities, skills, and contributio
 
 ## 🧾 Professional Trainings
 
-- **Diversity & Equality Training** – University of Liverpool (2023)
+-  **Foundations of Learning and Teaching in Higher Education.** University of Liverpool, UK (2025).
+-  **Diversity & Equality Training** – University of Liverpool (2023)
 - **Data Protection & Information Security: Foundation 2022** – University of Liverpool (2022)
 - **Bribery Act 2010 Compliance Training** – University of Liverpool (2022)
 - **Managing Safety** – University of Liverpool (2021)
