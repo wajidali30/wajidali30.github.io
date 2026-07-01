@@ -4,7 +4,7 @@
 
 - **Postdoctoral Research Associate** – Department of Infection Biology & Microbioms, University of Liverpool, UK  
   *(2026 – present)*
-  - **Postdoctoral Research Associate** – Department of Evolution, Ecology and Behaviour, University of Liverpool, UK  
+- **Postdoctoral Research Associate** – Department of Evolution, Ecology and Behaviour, University of Liverpool, UK  
   *(2025 – 2026)*
 
 - **Postdoctoral Research Associate** – Department of Mathematical Sciences, University of Liverpool, UK  
