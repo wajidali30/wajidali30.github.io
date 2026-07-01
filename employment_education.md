@@ -30,7 +30,7 @@
 ## 🎓 Education Record
 
 - **PhD in Applied Mathematics** – University of Liverpool, UK  
-  *(2021 – 2025)*  
+  *(2021 – 2024)*  
   *Thesis: Mathematical modelling of epidemics, evolution, and social interaction.*
 
 - **Master's in Mathematics** – University of Peshawar, Pakistan  
